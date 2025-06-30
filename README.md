@@ -5,3 +5,10 @@ I'm supposed to write about myself but uhhh idk what to say
 Just pretend they'res something intresting in here for me, thanks!
 
 I need to add something so I'm adding this text (at least for the first time)
+
+I need to add something so I'm adding this text (Yup i did it again)
+
+I might need another commit so here you go
+
+
+AAAAAAAAAAAAAAAAAAAAAAAAA
